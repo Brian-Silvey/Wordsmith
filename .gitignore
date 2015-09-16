@@ -1,2 +1,6 @@
-Data/
+Syllable\ Data/
 updateServer.sh
+.DS_Store
+*.iml
+*.xml
+out/
