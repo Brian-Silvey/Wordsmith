@@ -3,4 +3,5 @@ updateServer.sh
 .DS_Store
 *.iml
 *.xml
+*.name
 out/
